@@ -1,0 +1,23 @@
+.summary-container {
+  margin-top: 2rem;
+}
+
+.summary-container table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.summary-container th,
+.summary-container td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: center;
+}
+
+.summary-container th {
+  background-color: #cbd5e1;
+}
+
+.chart-wrapper {
+  margin-top: 2rem;
+}
