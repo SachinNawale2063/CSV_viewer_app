@@ -8,7 +8,7 @@ import './App.css';
 function App() {
   const [fileData, setFileData] = useState(null);
   const [showSummary, setShowSummary] = useState(false);
-  const [currentPage, setCurrentPage] = useState(1); e
+  const [currentPage, setCurrentPage] = useState(1); 
 
   const handleFileUpload = (data) => {
     setFileData(data);
